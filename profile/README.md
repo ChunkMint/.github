@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="chunkmint-banner.png" alt="Chunkmint.dev banner" width="100%" />
+  <img src="./chunkmint-banner.png" alt="Chunkmint.dev banner" width="100%" />
 </p>
 
 <h1 align="center">Chunkmint.dev</h1>
